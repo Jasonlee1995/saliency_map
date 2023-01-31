@@ -3,8 +3,8 @@
 
 
 ## 1. Implementation Details
-- 1. Class Model Visualisation.ipynb : update zero image using pre-trained model with target class
-- 2. Image-Specific Class Saliency Visualisation.ipynb : make saliency map of an image using pre-trained model with target class
+- `1. Class Model Visualisation.ipynb` : update zero image using pre-trained model with target class
+- `2. Image-Specific Class Saliency Visualisation.ipynb` : make saliency map of an image using pre-trained model with target class
 
 
 ## 2. Reference
